@@ -1,0 +1,5 @@
+Creamos un nuevo proyecto en Angular ejecutando los siguientes comandos en 
+la terminal. Primero la creamos con el comando "ng new user-management-frontend"
+porterior a ello nos adentramos al archivo por medio del comando "cd user-management-frontend",
+despues desarrollamos el codigo correspondiente y cuando teniamos todo listo damos el siguiente comando
+"ng serve" esto con el fin de que la aplicacion de Angular corriera de manera correcta.

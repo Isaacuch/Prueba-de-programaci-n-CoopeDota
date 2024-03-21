@@ -1,0 +1,6 @@
+//Apuntes importantes del procedimiento del API
+//A la hora de realizar el API los desarrollamos por medio del cmd, es decir por 
+//comandos "dotnet new webapi -n UserManagementAPI" para crearlo y despues para 
+//meternos dentro de el aplicamos el comando "cd UserManagementAPI", una vez realizado 
+estos pasos nos damos la tarea de progrmar el sistema con todo lo que necesita y por ultimo
+//ejecutamos el comando "dotnet run" desde la carpeta raíz con el fin de que el API corra de manera correcta. 

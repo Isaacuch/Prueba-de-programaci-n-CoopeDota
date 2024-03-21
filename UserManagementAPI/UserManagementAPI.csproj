@@ -1,0 +1,17 @@
+//Instalamos el Archivo SDK para poder ejecutar los comandos para la realizacion del API
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+//Definiciones del proyecto
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+//Algunos paquetes o versiones utilizadas en el codigo
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+</Project>
